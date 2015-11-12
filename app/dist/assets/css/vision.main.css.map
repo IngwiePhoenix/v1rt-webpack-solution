@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///webpack:///app/src/style-x.less"],"names":[],"mappings":";;;AAAA;EACI;CACH","file":"css/vision.main.css","sourcesContent":[".less-class {\n    content: \"This is a LESS class.\";\n}\n\n\n\n/** WEBPACK FOOTER **\n ** webpack:///app/src/style-x.less\n **/"],"sourceRoot":""}
